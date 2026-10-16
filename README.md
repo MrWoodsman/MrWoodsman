@@ -46,6 +46,7 @@ I like building small, useful apps that solve real problems, then self-hosting t
 | 🧾 [**System-Kasowy**](https://github.com/MrWoodsman/System-Kasowy) | Simple simulation of cash register system. | JavaScript |
 | 🧠 [**MemoryBlock**](https://github.com/MrWoodsman/MemoryBlock) | Memory game. | JavaScript |
 
+<!--
 ## 📊 GitHub stats
 
 <div align="center">
@@ -54,6 +55,7 @@ I like building small, useful apps that solve real problems, then self-hosting t
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrWoodsman&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+-->
 
 ## 📫 Let's connect
 
